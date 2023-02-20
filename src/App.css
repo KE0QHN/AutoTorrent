@@ -8,7 +8,7 @@
   background-image: linear-gradient(79deg, #7439db, #C66FBC 48%, #f7944d);
 }
 
-.auth-form-container, .login-form, .register-form {
+.auth-form-container, .login-form {
   display: flex;
   flex-direction: column;
 }
